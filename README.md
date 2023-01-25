@@ -4,7 +4,7 @@ OLED dark mode tweak for "Le Soir" belgian newspaper iphone app.
 
 # Preview
 
-<img width="262" alt="Capture d’écran 2023-01-25 à 14 38 05" src="https://user-images.githubusercontent.com/76073612/214577921-8d9ab69d-92ab-4218-908c-4fa93567c332.png"> <img width="263" alt="Capture d’écran 2023-01-25 à 14 38 00" src="https://user-images.githubusercontent.com/76073612/214577942-0077b7ec-1a70-4fed-acdc-731fa09b4e41.png"> <img width="266" alt="Capture d’écran 2023-01-25 à 14 38 11" src="https://user-images.githubusercontent.com/76073612/214577965-734799f2-ac19-481e-9c97-854c3cca5864.png"> <img width="266" alt="Capture d’écran 2023-01-25 à 14 38 16" src="https://user-images.githubusercontent.com/76073612/214577985-b71c40e8-5d7b-4580-ba17-d64c9da7dfa9.png">
+<img width="250" alt="Capture d’écran 2023-01-25 à 14 38 05" src="https://user-images.githubusercontent.com/76073612/214577921-8d9ab69d-92ab-4218-908c-4fa93567c332.png"> <img width="250" alt="Capture d’écran 2023-01-25 à 14 38 00" src="https://user-images.githubusercontent.com/76073612/214577942-0077b7ec-1a70-4fed-acdc-731fa09b4e41.png"> <img width="250" alt="Capture d’écran 2023-01-25 à 14 38 11" src="https://user-images.githubusercontent.com/76073612/214577965-734799f2-ac19-481e-9c97-854c3cca5864.png"> <img width="250" alt="Capture d’écran 2023-01-25 à 14 38 16" src="https://user-images.githubusercontent.com/76073612/214577985-b71c40e8-5d7b-4580-ba17-d64c9da7dfa9.png">
 
 # Installation
 Compiled .ipa is inside the "release" tab. Tweak.xm shows the modifications.
