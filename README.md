@@ -12,3 +12,4 @@ Compiled .ipa is inside the "release" tab. Tweak.xm shows the modifications.
 # Useful tools
 - [Lookin](https://github.com/QMUI/LookinServer)
 - [ChatGPT](https://openai.com/blog/chatgpt/), which basically wrote 95% of the code
+- [iPatch](https://github.com/EamonTracey/iPatch)
