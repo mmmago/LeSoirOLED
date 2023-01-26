@@ -10,6 +10,7 @@ OLED dark mode tweak for "Le Soir" belgian newspaper iphone app.
 Sideloadable compiled .ipa is inside the "release" tab. Tweak.xm shows the modifications applied to it.
 
 # Useful tools
+- [theos jailed](https://github.com/kabiroberai/theos-jailed)
 - [Lookin](https://github.com/QMUI/LookinServer)
 - [ChatGPT](https://openai.com/blog/chatgpt/), which basically wrote 95% of the code
 - [iPatch](https://github.com/EamonTracey/iPatch)
